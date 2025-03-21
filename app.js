@@ -46,7 +46,6 @@ botonInicioPausa.addEventListener('click', () =>{
         botonInicioPausa.classList.add('iniciar');
         estado = 'pausado';
     }
-
 });
 
 botonReinicio.addEventListener('click', () =>{
